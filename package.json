@@ -1,0 +1,16 @@
+{
+  "name": "devrijer-art",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.5",
+    "canvas-sketch-cli": "^1.11.15",
+    "canvas-sketch-util": "^1.10.0",
+    "tweakpane": "^3.0.8"
+  }
+}
