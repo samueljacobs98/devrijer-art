@@ -1,6 +1,6 @@
 # devrijer-art
 
-![](./src/assets/images/readme.png)
+![](./readme.assets/live-site.png)
 
 _A screenshot of the live site._
 
